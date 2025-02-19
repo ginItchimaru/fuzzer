@@ -1,0 +1,2 @@
+g++ -o fuzzer main.cpp fuzzer.cpp -lcurl -std=c++20
+
